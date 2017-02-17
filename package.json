@@ -1,0 +1,23 @@
+{
+  "name": "x5c_check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse_pub_from_x5c_rsa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexZeitler/x5c_check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexZeitler/x5c_check/issues"
+  },
+  "homepage": "https://github.com/AlexZeitler/x5c_check#readme",
+  "dependencies": {
+    "node-rsa": "^0.4.2"
+  }
+}
