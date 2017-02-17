@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/AlexZeitler/x5c_check#readme",
   "dependencies": {
-    "node-rsa": "^0.4.2"
+    "node-rsa": "^0.4.2",
+    "split-ca": "^1.0.1",
+    "x509": "^0.3.1"
   }
 }
